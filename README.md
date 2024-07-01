@@ -48,8 +48,8 @@ Installation
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/devona-connectivity-monitor.git
-   cd devona-connectivity-monitor
+   git clone https://github.com/yousefhashem/Observe_Internet_Connection.git
+   cd Observe_Internet_Connection
    ```
 
 2. Open the project in Android Studio.
