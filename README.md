@@ -1,6 +1,6 @@
-# Devona Connectivity Monitor
+# Connectivity Monitor
 
-Devona Connectivity Monitor is an Android application designed to observe internet connectivity and provide user feedback through a Snackbar. This project demonstrates the use of MVVM architecture, repositories, ViewModels, and UI components in a clean and organized manner.
+Connectivity Monitor is an Android application designed to observe internet connectivity and provide user feedback through a Snackbar. This project demonstrates the use of MVVM architecture, repositories, ViewModels, and UI components in a clean and organized manner.
 
 Table of Contents
 
